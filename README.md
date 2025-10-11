@@ -111,7 +111,7 @@ Dự án này thực hiện **phân tích dữ liệu toàn diện** hoạt đ�
 - ✅ **Final Insights**: Strategic recommendations, business projections
 
 ---
-
+![Quy Trình Phân Tích Dữ Liệu](img/workflow.png)
 ## 📊 Các chỉ số (KPI) chính
 
 ### 💰 **Business Performance**
